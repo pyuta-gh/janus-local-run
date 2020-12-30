@@ -8,6 +8,7 @@ Create a local operating environment for Janus for Web RTC in a Docker container
 Please try image-name with any name you like.
 ### Souce Clone
 git clone git@github.com:pyuta-gh/janus-local-run.git
+cd janus-local-run
 
 ### Image build method
 
